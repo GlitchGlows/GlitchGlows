@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Glitch Glows Studio
+# 🚀 Glitch Glows
 <b><i>bots, sites &amp; brands that actually glow</i></b>
 
 <br>
@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td width="33%"><b>👋 About</b><br><br>Tech + design studio teaching AI, code &amp; web building. We build bots, websites, AI assistants &amp; brands. No agencies, no middlemen—just direct access to the makers.</td>
+    <td width="33%"><b>👋 About</b><br><br>Tech + design studio teaching AI, code &amp; web building. We build bots, websites, AI assistants &amp; brands. No agencies, no middlemen.</td>
     <td width="33%"><b>🛠️ Services</b><br><br>• Learn to Code &amp; AI<br>• Custom Websites<br>• AI Assistants<br>• Bots &amp; Automation<br>• Logos &amp; Brand Kits</td>
     <td width="33%"><b>📬 Contact</b><br><br>• <a href="mailto:GlitchGlows@proton.me">GlitchGlows@proton.me</a><br>• <a href="https://glitchglows.studio/book.html">Book a Project</a><br>• Discord: @GlitchGlow</td>
   </tr>
@@ -22,6 +22,18 @@
 <br>
 
 ![Glitch Glows Banner](assets/banner.png)
+
+---
+
+## 🎮 Live Demos · click to play
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://YOUR-SITE.netlify.app/demos.html#discord"><b>🤖 Neon Discord Bot</b></a><br><i>type !help, !points, !ticket</i></td>
+    <td width="33%" align="center"><a href="https://YOUR-SITE.netlify.app/demos.html#coffee"><b>☕ Ember &amp; Oak Coffee</b></a><br><i>a full client site, click around</i></td>
+    <td width="33%" align="center"><a href="https://YOUR-SITE.netlify.app/demos.html#ai"><b>🧠 Glow AI Assistant</b></a><br><i>chat with it live</i></td>
+  </tr>
+</table>
 
 ---
 
@@ -38,33 +50,15 @@
 
 ---
 
-## ⭐ Featured Projects &amp; Demos
-
-<div align="center">
-<i>Check out our open-source templates and studio builds:</i>
-</div>
-
-<br>
-
-<!-- REPLACE 'glitchglows' BELOW WITH YOUR ACTUAL GITHUB USERNAME -->
-<a href="https://github.com/glitchglows/glitch-ai-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchglows&repo=glitch-ai-assistant&theme=transparent&title_color=5ef0ff&icon_color=ff5ec4&text_color=d8d8e8&hide_border=true" />
-</a>
-<a href="https://github.com/glitchglows/neon-discord-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchglows&repo=neon-discord-bot&theme=transparent&title_color=ff5ec4&icon_color=5ef0ff&text_color=d8d8e8&hide_border=true" />
-</a>
-
----
-
-## 💎 The Studio Promise
+## 🤝 The Deal
 
 <div align="left">
 
-> 🤝 **No black boxes.** You talk to the maker, the scope is locked in writing, and we stay after launch.
+> 👀 **See it working first.** Every build comes with a live preview, so you know exactly what you're getting before any money moves.
 > 
-> ⏳ **Trust goes both ways.** Small jobs and 1:1 lessons are pay-after. You only pay when you're happy with the work.
+> 🔐 **Files unlock on payment.** One flat number, agreed in writing up front. You approve the work, payment clears, everything is yours. No hostages, no chasing.
 > 
-> 🌍 **Borderless.** Crypto, card, or gift card. Worldwide and async-friendly.
+> 🌍 **Borderless &amp; async.** Crypto, card, or gift card. We work around your hours and keep you posted in the open.
 
 </div>
 
@@ -74,7 +68,6 @@
 
 <div align="center">
 
-<!-- REPLACE 'glitchglows' BELOW WITH YOUR ACTUAL GITHUB USERNAME -->
 <img src="https://github-readme-stats.vercel.app/api?username=glitchglows&show_icons=true&theme=transparent&title_color=5ef0ff&icon_color=ff5ec4&text_color=d8d8e8&hide_border=true" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchglows&layout=compact&theme=transparent&title_color=5ef0ff&text_color=d8d8e8&hide_border=true" alt="languages" />
 
@@ -90,12 +83,3 @@
 </div>
 
 </div>
-  # 🤖 Glitch AI Assistant Template
-  A boilerplate for building custom AI assistants trained on your own docs, FAQs, or brand voice. Built by [Glitch Glows](https://glitchglows.studio).
-  
-  ### Features
-  - Custom prompt engineering
-  - Document ingestion (RAG)
-  - Discord & Web deployment ready
-  
-  *Want a custom AI for your business? [Book a build](https://glitchglows.studio/book.html).*
