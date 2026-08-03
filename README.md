@@ -90,3 +90,12 @@
 </div>
 
 </div>
+  # 🤖 Glitch AI Assistant Template
+  A boilerplate for building custom AI assistants trained on your own docs, FAQs, or brand voice. Built by [Glitch Glows](https://glitchglows.studio).
+  
+  ### Features
+  - Custom prompt engineering
+  - Document ingestion (RAG)
+  - Discord & Web deployment ready
+  
+  *Want a custom AI for your business? [Book a build](https://glitchglows.studio/book.html).*
