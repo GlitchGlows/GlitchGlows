@@ -1,67 +1,91 @@
 <div align="center">
 
 # 🚀 Glitch Glows Studio
+<b><i>bots, sites &amp; brands that actually glow</i></b>
 
 <br>
 
-<div align="left">
+<a href="https://glitchglows.studio">🌐 Website</a> • 
+<a href="mailto:GlitchGlows@proton.me">✉️ Email</a> • 
+💬 <b>@GlitchGlow</b> (Discord)
 
-| **About** | **Services** | **Contact** |
-|-----------|-------------|------------|
-| Solo dev & designer teaching AI/code/web building. Building bots, websites, AI assistants, logos & more. One person studio—no agencies, no middlemen. | <ul><li>Learn to Code ($25/hr)</li><li>Build Websites ($45)</li><li>Custom AI Assistants ($45)</li><li>Bots & Automation ($30)</li><li>Audit & Bug Fix ($15-$40)</li></ul> | <ul><li>hello@glitchglows.studio</li><li>@GlitchGlow (Discord)</li><li>[Start Project](#)</li></ul> |
+<br><br>
 
-<div align="center">
+<table>
+  <tr>
+    <td width="33%"><b>👋 About</b><br><br>Tech + design studio teaching AI, code &amp; web building. We build bots, websites, AI assistants &amp; brands. No agencies, no middlemen—just direct access to the makers.</td>
+    <td width="33%"><b>🛠️ Services</b><br><br>• Learn to Code &amp; AI<br>• Custom Websites<br>• AI Assistants<br>• Bots &amp; Automation<br>• Logos &amp; Brand Kits</td>
+    <td width="33%"><b>📬 Contact</b><br><br>• <a href="mailto:GlitchGlows@proton.me">GlitchGlows@proton.me</a><br>• <a href="https://glitchglows.studio/book.html">Book a Project</a><br>• Discord: @GlitchGlow</td>
+  </tr>
+</table>
 
-![Glitch Glows Logo]([YOUR_LOGO_URL])
+<br>
+
+![Glitch Glows Banner](assets/banner.png)
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ The Toolbox
 
-<div style="font-family: monospace; line-height: 1.8;">
+<div align="left">
 
-- **Languages**: JavaScript, Python, HTML/CSS, React
-- **AI Tools**: ChatGPT, MidJourney, Custom Models
-- **Platforms**: Netlify, Vercel, Discord, Telegram, AWS
-- **Design**: Figma, Canva, Adobe Creative Cloud
+- **Languages**: `JavaScript` `Python` `HTML/CSS` `React`
+- **AI Tools**: `ChatGPT API` `MidJourney` `Custom Models`
+- **Platforms**: `Netlify` `Vercel` `Discord API` `Telegram API`
+- **Design**: `Figma` `Canva` `Adobe CC`
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Projects &amp; Demos
 
-<!-- Replace these links with your actual projects later -->
+<div align="center">
+<i>Check out our open-source templates and studio builds:</i>
+</div>
 
-[![Website](images/web.png)](https://glitchglows.studio) — Glitch Glows Studio Website  
-[![Bot Demo](images/bot.gif)]() — Community Management Bot  
-[![AI Tool](images/ai.png)]() — Custom AI Assistant Builder  
+<br>
 
----
-
-## 💼 Client Love
-
-> "Alex built us an amazing website that actually converts visitors!" — Startup Founder
-
-> "Best AI training session I've ever had—finally made sense!" — Freelancer
-
-> "Fixed my entire site in one session—worth every cent!" — E-commerce Owner
+<!-- REPLACE 'glitchglows' BELOW WITH YOUR ACTUAL GITHUB USERNAME -->
+<a href="https://github.com/glitchglows/glitch-ai-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchglows&repo=glitch-ai-assistant&theme=transparent&title_color=5ef0ff&icon_color=ff5ec4&text_color=d8d8e8&hide_border=true" />
+</a>
+<a href="https://github.com/glitchglows/neon-discord-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glitchglows&repo=neon-discord-bot&theme=transparent&title_color=ff5ec4&icon_color=5ef0ff&text_color=d8d8e8&hide_border=true" />
+</a>
 
 ---
 
-## 📊 Activity Graph (Shows You're Active)
+## 💎 The Studio Promise
 
-![GitHub Activity]([IMAGE_LINK_FROM_GITHUB_PROFILE_SETTINGS])
+<div align="left">
 
-*Updates weekly with new commits ✨*
+> 🤝 **No black boxes.** You talk to the maker, the scope is locked in writing, and we stay after launch.
+> 
+> ⏳ **Trust goes both ways.** Small jobs and 1:1 lessons are pay-after. You only pay when you're happy with the work.
+> 
+> 🌍 **Borderless.** Crypto, card, or gift card. Worldwide and async-friendly.
+
+</div>
+
+---
+
+## 📊 Studio Activity
+
+<div align="center">
+
+<!-- REPLACE 'glitchglows' BELOW WITH YOUR ACTUAL GITHUB USERNAME -->
+<img src="https://github-readme-stats.vercel.app/api?username=glitchglows&show_icons=true&theme=transparent&title_color=5ef0ff&icon_color=ff5ec4&text_color=d8d8e8&hide_border=true" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchglows&layout=compact&theme=transparent&title_color=5ef0ff&text_color=d8d8e8&hide_border=true" alt="languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Ready to Build Something? [Book Now →](https://glitchglows.studio/book.html)
-
-Or just say hi: <a href="mailto:hello@glitchglows.studio">hello@glitchglows.studio</a> • [@GlitchGlow on Discord](discord.gg/glitchglows)
+### Ready to build something? 
+<a href="https://glitchglows.studio/book.html"><b>Start a Project →</b></a>
 
 </div>
 
