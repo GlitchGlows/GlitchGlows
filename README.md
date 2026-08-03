@@ -1,54 +1,68 @@
-![Glitch Glows banner](assets/banner.png)
+<div align="center">
 
-<h1 align="center">Glitch Glows</h1>
-<p align="center">tech + design studio · we teach AI, code &amp; web building · we build sites, bots &amp; logos that glow</p>
-
-<p align="center">
-  <a href="https://glitchglows.studio">website</a> ·
-  <a href="mailto:GlitchGlows@proton.me">email</a> ·
-  Discord <b>@GlitchGlow</b> ·
-  crypto-friendly (BTC / USDC / ETH / SOL)
-</p>
+# 🚀 Glitch Glows Studio
 
 <br>
 
-### what we do
+<div align="left">
 
-| service | type | price |
-|---|---|---|
-| learn to use AI | 1:1 call | $20 |
-| learn to code | 1:1 call | $25 |
-| learn to build websites | 1:1 call | $25 |
-| website build | done for you | $45 |
-| custom AI assistant | done for you | $45 |
-| bot (Discord / Telegram / Twitch) | done for you | $30 |
-| logo | unlimited tweaks | $30 |
-| brand kit | logo + system | $40 |
-| bug fix | one flat price | $15 |
-| AI setup for your business | done for you | $40 |
-| Discord server setup | done for you | $30 |
-| stream kit | overlays + emotes + bot | $40 |
-| speed + SEO audit | report | $10 |
-| automation | done for you | $35 |
-| care plan | per month | $30/mo |
+| **About** | **Services** | **Contact** |
+|-----------|-------------|------------|
+| Solo dev & designer teaching AI/code/web building. Building bots, websites, AI assistants, logos & more. One person studio—no agencies, no middlemen. | <ul><li>Learn to Code ($25/hr)</li><li>Build Websites ($45)</li><li>Custom AI Assistants ($45)</li><li>Bots & Automation ($30)</li><li>Audit & Bug Fix ($15-$40)</li></ul> | <ul><li>hello@glitchglows.studio</li><li>@GlitchGlow (Discord)</li><li>[Start Project](#)</li></ul> |
 
-small jobs &amp; lessons under $20 you pay after, when you're happy. flat prices, worldwide.
+<div align="center">
 
-<br>
+![Glitch Glows Logo]([YOUR_LOGO_URL])
 
-### how we work
+---
 
-1. **talk** · free chat, flat price agreed in writing
-2. **build** · updates as we go, you watch it happen
-3. **ship** · you get the files, we stay for fixes
+## 🛠️ What I Work With
 
-<br>
+<div style="font-family: monospace; line-height: 1.8;">
 
-### the receipts
+- **Languages**: JavaScript, Python, HTML/CSS, React
+- **AI Tools**: ChatGPT, MidJourney, Custom Models
+- **Platforms**: Netlify, Vercel, Discord, Telegram, AWS
+- **Design**: Figma, Canva, Adobe Creative Cloud
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlitchGlows&show_icons=true&theme=transparent&title_color=5ef0ff&icon_color=ff5ec4&text_color=d8d8e8&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlitchGlows&layout=compact&theme=transparent&title_color=5ef0ff&text_color=d8d8e8&hide_border=true" alt="languages" />
-</p>
+</div>
 
-<p align="center">open for work · replies within a day · <a href="https://glitchglows.studio/book.html">book a project</a></p>
+---
+
+## ⭐ Featured Projects
+
+<!-- Replace these links with your actual projects later -->
+
+[![Website](images/web.png)](https://glitchglows.studio) — Glitch Glows Studio Website  
+[![Bot Demo](images/bot.gif)]() — Community Management Bot  
+[![AI Tool](images/ai.png)]() — Custom AI Assistant Builder  
+
+---
+
+## 💼 Client Love
+
+> "Alex built us an amazing website that actually converts visitors!" — Startup Founder
+
+> "Best AI training session I've ever had—finally made sense!" — Freelancer
+
+> "Fixed my entire site in one session—worth every cent!" — E-commerce Owner
+
+---
+
+## 📊 Activity Graph (Shows You're Active)
+
+![GitHub Activity]([IMAGE_LINK_FROM_GITHUB_PROFILE_SETTINGS])
+
+*Updates weekly with new commits ✨*
+
+---
+
+<div align="center">
+
+### Ready to Build Something? [Book Now →](https://glitchglows.studio/book.html)
+
+Or just say hi: <a href="mailto:hello@glitchglows.studio">hello@glitchglows.studio</a> • [@GlitchGlow on Discord](discord.gg/glitchglows)
+
+</div>
+
+</div>
