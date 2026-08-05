@@ -21,7 +21,7 @@
 
 <br>
 
-![Glitch Glows Banner](assets/banner.png)
+![Glitch Glows Banner](banner.png)
 
 ---
 
